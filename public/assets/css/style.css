@@ -1,0 +1,23 @@
+html,
+body {
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+}
+
+header,
+.view {
+  height: 100%;
+}
+
+.form-control {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#done {
+    text-align: center;
+}
+
